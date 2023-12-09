@@ -1,7 +1,17 @@
 {
   "warningText": "提醒：每次使用前记得按主页切换线路",
 
-  "sites": [],
+  "sites": [
+    {
+      "key": "push_agent",
+      "name": "✅直播专用┃推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+    }
+  ],
 
   "parses": [],
 
