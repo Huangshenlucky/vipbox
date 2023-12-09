@@ -41,7 +41,7 @@
 "lives": [{
 		    "name": "live",
 		    "type": 0,
-		    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+		    "url": "https://jihulab.com/tianmaomohe/vip/-/raw/main/tvbox/live.txt",
 		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],   
